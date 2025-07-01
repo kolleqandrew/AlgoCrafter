@@ -14,10 +14,6 @@ The **TotalAV My Account Login** allows users to manage subscriptions, monitor d
 
 If you're wondering how to perform the **TotalAV My Account Login** across various devices, this guide will walk you through each step clearly and simply.
 
-.. contents::
-   :local:
-   :depth: 2
-
 Why TotalAV My Account Login Is Essential
 -----------------------------------------
 
